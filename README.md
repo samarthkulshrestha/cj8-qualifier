@@ -1,6 +1,5 @@
 ---
-# **this is samarth kulshrestha's code for the eighth python codejam, organised by pythondiscord**
----
+#### **this is samarth kulshrestha's code for the eighth python codejam, organised by pythondiscord**
 
 # Summer Code Jam 2021: Qualifier
 
