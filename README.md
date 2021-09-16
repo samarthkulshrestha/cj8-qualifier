@@ -1,3 +1,7 @@
+---
+# **this is samarth kulshrestha's code for the eighth python codejam, organised by pythondiscord**
+---
+
 # Summer Code Jam 2021: Qualifier
 
 To qualify for the upcoming Summer Code Jam, you'll have to complete a qualifier assignment. In this assignment you have
